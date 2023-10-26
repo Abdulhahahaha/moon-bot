@@ -9,7 +9,7 @@ global.APIs = {
   alya: 'https://api.alyachan.pro'
 }
 global.APIKeys = {
-  'https://api.alyachan.pro': 'matamu' // Silahkan register dulu
+  'https://api.alyachan.pro': 'IIphMP' // Silahkan register dulu
 }
 
 global.set = {
